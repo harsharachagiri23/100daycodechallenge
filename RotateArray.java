@@ -3,6 +3,8 @@
 // brute-force approach --O(k*n)
 
 // optimized solution --O(n+n+n) --O(3n) --O(n) as reverse method logic is called 3 times
+
+//output: Before rotate: 1 2 3 4 5 After rotate: 4 5 1 2 3  , when k=3
 public class RotateArray {
 //    public static void rotateArray(int [] arr){
 //        int temp = arr[0];
