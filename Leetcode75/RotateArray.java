@@ -1,4 +1,4 @@
-// Rotate array by k times
+package Leetcode75;// Rotate array by k times
 
 // brute-force approach --O(k*n)
 
